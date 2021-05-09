@@ -1,16 +1,23 @@
-### Hi there 👋
 
-<!--
-**anojan1996/anojan1996** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there!!! I'm Anojan Thirunavukkarasu <img src="https://github.com/blackcater/blackcater/raw/master/images/Hi.gif" height="32" />
 
-Here are some ideas to get you started:
+## Who I am
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- A passionate team player who has gained domain knowledge and experience on backend development and computer vision willing to apply them in challenging tech-projects.
+- 🎤 Undergraduate of Department of computing and Information System, University of Sabragamuwa
+- 💬 Actively writing blogs [Check it Out!](https://medium.com/@anojan1996)
+- 📬 How to reach me: <a href="mailto:anojan2012@gmail.com">Let's get in touch!</a>
+
+
+
+## ✏️ Recent Blog
+
+
+ [![Anojan Thirunavakkarasu's github stats](https://github-readme-stats.vercel.app/api?username=anojan1996&count_private=true&show_icons=true&theme=dracula)](https://github.com/anojan1996/github-readme-stats)
+ 
+ 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anojan1996&layout=compact&count_private=true&show_icons=true&theme=dracula)](https://github.com/anojan1996/github-readme-stats)
+
+
+Happy coding !!!
+
